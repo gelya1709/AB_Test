@@ -15,7 +15,7 @@ We looked at user profiles based on their activity levels (low, medium, high) an
 Initially, 7 hypotheses were generated. A quick analysis enabled the swift dismissal of 2 hypotheses, 
 as the suggested features were deemed unprofitable for the business and detrimental to the user experience.
 
-The remaining five hypotheses underwent prioritization using the ICE method. For the upcoming AB test, the hypothesis with the highest assessment is as follows:
+The remaining 5 hypotheses underwent prioritization using the ICE method. For the upcoming AB test, the hypothesis with the highest assessment is as follows:
 
 #### Hypothesis for the AB test:
 If the surge factor is reduced for users placing orders during rush hours, then the price-to-order conversion will increase by 5 percentage points (pp). 
