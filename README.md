@@ -40,15 +40,15 @@ This suggests that any observed differences in the upcoming A/B test results are
 
 ### Conducting an A/B Test
 
-Difference in price_to_order conversions between test and control groups
+The difference in price_to_order conversions between test and control groups:
+![Price_to_order_conversion](https://github.com/gelya1709/AB_Test/blob/main/Graphs/Price_to_order_conversion.png)
 
-(picture)
-
-**Conclusion:** in the test group the conversion to order is higher, but the increase less than we expected (less than 5pp)
+**Conclusion:** In the test group the conversion to order is higher, but the increase is less than we expected (less than 5pp)
 
 ### Analysis of A/B Test Results (statistical)
 
-(2 pictures)
+Periodic (on the left) and cumulative (on the right) p-value:
+![Periodic_and_cumulative_pvalue](https://github.com/gelya1709/AB_Test/blob/main/Graphs/Periodic_and_cumulative_pvalue.png)
 
 **Conclusion:** The cumulative p-value shows that the results are statistically significant
 
