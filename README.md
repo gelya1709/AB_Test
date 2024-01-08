@@ -10,7 +10,7 @@ We looked at user profiles based on their activity levels (low, medium, high) an
 - During surge times, orders from the center have a better conversion rate (72%) compared to other locations (68%).
 - Users cancel short trips more often (17%) than long ones (14%).
 
-### 2. Hypotheses Generation:
+### 2. Hypotheses Generation
 
 Initially, 7 hypotheses were generated. A quick analysis enabled the swift dismissal of 2 hypotheses, 
 as the suggested features were deemed unprofitable for the business and detrimental to the user experience.
@@ -21,7 +21,7 @@ The remaining 5 hypotheses underwent prioritization using the ICE method. For th
 If the surge factor is reduced for users placing orders during rush hours, then the price-to-order conversion will increase by 5 percentage points (pp). 
 This is anticipated because the more attractive pricing offer is expected to enhance the user's willingness to make a purchase.
 
-### 3. Preparation for A/B Testing:
+### 3. Preparation for A/B Testing
 
 The sample was composed of users for whom the proposed change is relevant, specifically those who placed orders during the surge period. 
 Using the Evan Miller calculator, the minimum sample size was determined to be 1300 in each group, with a test power of 80%, a significance level (alpha) of 5%, 
