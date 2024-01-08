@@ -21,7 +21,7 @@ The remaining five hypotheses underwent prioritization using the ICE method. For
 If the surge factor is reduced for users placing orders during rush hours, then the price-to-order conversion will increase by 5 percentage points (pp). 
 This is anticipated because the more attractive pricing offer is expected to enhance the user's willingness to make a purchase.
 
-### Preparing for A/B Testing:
+### 3. Preparation for A/B Testing:
 
 The sample was composed of users for whom the proposed change is relevant, specifically those who placed orders during the surge period. 
 Using the Evan Miller calculator, the minimum sample size was determined to be 1300 in each group, with a test power of 80%, a significance level (alpha) of 5%, 
@@ -38,21 +38,21 @@ Users were randomly assigned to either the test or control group.
 **Conclusion:** The p-values obtained from the tests are all greater than 0.05, indicating that the groups are homogeneous. 
 This suggests that any observed differences in the upcoming A/B test results are likely attributable to the proposed change rather than initial group imbalances.
 
-### Conducting an A/B Test
+### 4. Conducting an A/B Test
 
 The difference in price_to_order conversions between test and control groups:
 ![Price_to_order_conversion](https://github.com/gelya1709/AB_Test/blob/main/Graphs/Price_to_order_conversion.png)
 
 **Conclusion:** In the test group the conversion to order is higher, but the increase is less than we expected (less than 5pp)
 
-### Analysis of A/B Test Results (statistical)
+### 5.1 Analysis of A/B Test Results (statistical)
 
 Periodic (on the left) and cumulative (on the right) p-value:
 ![Periodic_and_cumulative_pvalue](https://github.com/gelya1709/AB_Test/blob/main/Graphs/Periodic_and_cumulative_pvalue.png)
 
 **Conclusion:** The cumulative p-value shows that the results are statistically significant
 
-### Analysis of A/B Test Results (business)
+### 5.2 Analysis of A/B Test Results (business)
 
 The results indicate that our initial hypothesis was not confirmed. The observed increase in the price-to-order conversion was lower than anticipated. 
 The A/B test revealed that implementing the proposed change, specifically reducing the surge coefficient, may not be suitable for all users.
